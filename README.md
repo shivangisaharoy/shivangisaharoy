@@ -1,5 +1,5 @@
 - 👋 Hi, I’m shiwangi
-- 👀 I’m interested in Data Science, Data analytics, web development.
+- 👀 I’m interested in Data Science, Data analytics and Web development.
 - 📫 How to reach me https://www.linkedin.com/in/shiwangi-saha-roy-416823173
 
 <!---
