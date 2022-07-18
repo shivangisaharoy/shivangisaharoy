@@ -1,5 +1,4 @@
 - 👋 Hi, I’m shiwangi and I am a Data Analyst(Business Intelligence developer)
-- 👀 I love playing with data!🦄
 - 📈 Interested in data science,AI/ML,data engineering,BI dev,web development etc.
 - 📫 How to reach me https://www.linkedin.com/in/shiwangi-saha-roy-416823173
 
